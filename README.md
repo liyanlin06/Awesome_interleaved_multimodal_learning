@@ -1,1 +1,1 @@
-# awesome_interleaved_multimodal_learning
+# Awesome_interleaved_multimodal_learning
